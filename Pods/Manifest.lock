@@ -1,0 +1,20 @@
+PODS:
+  - SCPageViewController (2.0.13):
+    - SCScrollView (~> 1.1)
+  - SCScrollView (1.1.8)
+
+DEPENDENCIES:
+  - SCPageViewController
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SCPageViewController
+    - SCScrollView
+
+SPEC CHECKSUMS:
+  SCPageViewController: 6470029718238e7138c46490dbd326fa074dbd13
+  SCScrollView: 247186f377f0b3b8eb4c0a96a2c742b322414f9f
+
+PODFILE CHECKSUM: 9f04bb0b92d7c7dd92a2759041c9e2666d7d6506
+
+COCOAPODS: 1.5.3
